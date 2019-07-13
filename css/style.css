@@ -1,0 +1,154 @@
+body{
+	background-image: url("../images/overlay.png");
+
+}
+.main-header{box-sizing:border-box;
+	background-image: url("../images/header.jpg");
+	background-size: cover;
+	width: 100%;
+	height: 300px;
+}
+.main-header h1{box-sizing:border-box;
+	font-size: 60px;
+	text-align: center;
+	color: 	#3E3D3D;
+	margin-bottom: 0;
+}
+.main-header h4{
+	box-sizing:border-box;
+font-size: 30px;
+text-align: center;
+color: 	#949494;
+margin-top: 5px;
+}
+nav{box-sizing:border-box;
+	width: 70%;
+	height: 60px;
+	background-color: #131313;
+	margin: 10px auto;
+	border-radius: 40px;
+}
+nav li{box-sizing:border-box;
+	float: left;
+	margin:20px 35px;
+	color: #B4B4B4;
+	}
+nav li:hover{box-sizing:border-box;
+	color: white;
+}
+aside{box-sizing:border-box;
+	width: 30%;
+	min-height: 200px;
+	overflow: auto;
+	float: left;
+	border: 1px solid grey;
+	margin-top: 50px;
+	 text-align: justify;
+}
+aside h2{box-sizing:border-box;
+	text-align: left;
+}
+aside ul{
+	padding: 0 0 0 0;
+}
+aside li{box-sizing:border-box;
+	list-style: none;
+	text-decoration: underline;
+	color: red;
+	text-align: left;
+	margin-top: 10px;
+}
+section{box-sizing:border-box;
+	width:65% ;
+	min-height: 200px;
+	float: left;
+	margin-top: 50px;
+	margin-left: 25px; 
+	text-align: justify;
+}
+section img{box-sizing:border-box;
+width: 100%;
+border-radius: 10px;
+}
+section h1{box-sizing:border-box;
+	font-size: 30px;
+	margin-top: 0;
+	font-weight: 1000;
+}
+footer{box-sizing:border-box;
+	background-color: #131313;
+	width: 100%;
+	float: left;
+	min-height: 700px;
+	overflow: auto;
+	margin-top: 20px;
+}
+.gallery{box-sizing:border-box;
+	width: 50%;
+	min-height: 300px;
+	overflow: auto;
+	float: left;
+	margin-top: 50px;
+}
+.small{box-sizing:border-box;
+	float: left;
+	width: 40%;
+	min-height: 100px;
+	overflow: auto;
+	margin: 20px 20px;
+	text-align: justify;
+	color: #BFBFBF;
+}
+footer img{
+	float: left;
+	border-radius: 10px;
+	margin-right: 5px;
+}
+.right{color: #BFBFBF;
+	box-sizing:border-box;
+	width: 50%;
+	min-height: 300px;
+	overflow: auto;
+	float: left;
+	margin-top: 50px;
+
+}
+.das{box-sizing:border-box;
+	width: 100%;
+	min-height: 200px;
+	overflow: auto;
+	float: left;
+	margin-top: 50px;	
+}
+.large{
+	box-sizing:border-box;
+	float: left;
+	width: 23%;
+	min-height: 100px;
+	overflow: auto;
+	margin: 10px 10px;
+	
+	text-align: justify;
+	color: #BFBFBF;
+}
+.large img{
+	border-radius: 20px;
+	width: 100%
+}
+.div2{
+	width: 100px;
+	height: 30px;
+	background-color: black;
+	border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+
+
+}
+
+
+.ss{
+	width: 60px;
+	height: 20px;
+	font-size: 15px;
+}
